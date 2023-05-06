@@ -1,5 +1,5 @@
 ### Hello guys 👋
-You can call me Bun. I'm currently interested in coding and software engineering.
+My name is Bun. I'm currently interested in coding and software engineering.
 
 **XbunGam/XbunGam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
